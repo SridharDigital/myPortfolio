@@ -32,6 +32,7 @@ import {
   yuzomart,
   filmx,
   careerconnect,
+  aicade,
 } from "../assets";
 
 export const navLinks = [
@@ -146,6 +147,23 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "Lead Frontend Developer",
+    company_name: "Aicade Inc.",
+    icon: aicade,
+    iconBg: "#383E56",
+    date: "May 2023 - Present",
+    points: [
+      "Lead and mentored a team of 3, fostering collaboration and guiding them to make informed decisions that align with project goals.",
+      "Managed project timelines and milestones, coordinated with stakeholders, and prioritized features and issues.",
+      "Developed a code editor that allows users to edit game elements while the game is running, providing more flexibility and efficiency.",
+      "Integrated third-party APIs and services to enhance functionality and extend the capabilities of web applications.",
+      "Managed databases using both NoSQL technologies like MongoDB, ensuring efficient data storage and retrieval for complex web applications.",
+      "Integrated RESTful APIs to enhance functionality and user experience, connecting web applications with external services and data sources.",
+      "Utilized Git for version control, facilitating efficient code management and collaboration across project phases.",
+      "Tech Stack: HTML, CSS, JavaScript, TypeScript, React, Next JS, MongoDB, GIT, REST APIs, Monaco Editor, Tailwind.",
+    ],
+  },
   {
     title: "Member Technical",
     company_name: "ADP",

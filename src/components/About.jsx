@@ -49,8 +49,8 @@ const About = () => {
       >
         I am a frontend developer with expertise in designing, developing and
         delivering scalable frontend solutions with strong knowledge of React,
-        Next.js and Redux. My core strength includes Node.js, Express.js,
-        MongoDB, Python, SQL & Java. Let's work together to bring your ideas to
+        Next.js, TypeScript and Redux. My core strength includes Node.js,
+        Express.js, MongoDB and SQL. Let's work together to bring your ideas to
         life!
       </motion.p>
 
